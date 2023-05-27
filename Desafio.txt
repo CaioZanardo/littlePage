@@ -1,0 +1,11 @@
+Elabore uma pequena página aplicando seus conhecimentos sobre HTML, e incrementando com a biblioteca bootstrap e aplicando os conceitos de container, row e col. A página é de tema livre com base em seu gosto pessoal, como esportes, hobbies e músicas, contendo:
+
+a. Título do tema;
+
+b. Descrição do tema;
+
+c. 3 fotos sobre o tema;
+
+d. Um descritivo sobre cada foto;
+
+e. Um rodapé com informações finais.
